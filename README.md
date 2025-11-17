@@ -91,6 +91,4 @@ para aplicação de técnicas de Big Data.
 
 4.  Pull Request.
 
-## Licença
 
-Defina aqui a licença do projeto.
