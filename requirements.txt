@@ -1,0 +1,17 @@
+# Dependências do Projeto DGT2823
+# Tecnologias para Desenvolvimento de Soluções de Big Data
+
+# Bibliotecas principais
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Ambiente Jupyter (opcional)
+jupyter>=1.0.0
+jupyterlab>=3.0.0
+
+# Ferramentas adicionais para análise de dados
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Utilitários
+ipython>=7.0.0
